@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Muzyka97/react-phoneBook.git/static/css/main.7acaea2f.css",
-    "main.js": "/Muzyka97/react-phoneBook.git/static/js/main.ce3c1432.js",
+    "main.js": "/Muzyka97/react-phoneBook.git/static/js/main.0b2b9969.js",
     "index.html": "/Muzyka97/react-phoneBook.git/index.html",
     "main.7acaea2f.css.map": "/Muzyka97/react-phoneBook.git/static/css/main.7acaea2f.css.map",
-    "main.ce3c1432.js.map": "/Muzyka97/react-phoneBook.git/static/js/main.ce3c1432.js.map"
+    "main.0b2b9969.js.map": "/Muzyka97/react-phoneBook.git/static/js/main.0b2b9969.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.ce3c1432.js"
+    "static/js/main.0b2b9969.js"
   ]
 }
